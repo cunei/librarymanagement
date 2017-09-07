@@ -109,7 +109,7 @@ object UpdateOptions {
       interProjectFirst = true,
       latestSnapshots = true,
       cachedResolution = false,
-      gigahorse = true,
+      gigahorse = false,
       resolverConverter = PartialFunction.empty,
       moduleResolvers = Map.empty
     )
